@@ -2,6 +2,9 @@
 
 Compare routes based on travel time and air pollution exposure. Find the cleanest path to your destination.
 
+<img width="1918" height="865" alt="image" src="https://github.com/user-attachments/assets/98bb63a5-a00b-48f5-892d-b5e7f1566fa7" />
+
+
 ## Features
 
 - **Route Comparison**: Fetch 2-3 alternative routes using Google Maps Directions API
